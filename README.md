@@ -14,7 +14,7 @@ This project uses the Titanic dataset to predict passenger survival using variou
 ├── notebooks/
 │ └── eda_plots/
 │ ├── age_distribution.png
-│ ├── fare_distribution.png
+│ ├── fare_vs_class.png
 │ └── survival_countplot.png
 │
 ├── models/
