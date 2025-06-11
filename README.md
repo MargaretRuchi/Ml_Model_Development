@@ -89,3 +89,6 @@ Machine Learning (classification)
 
 Data Visualization
 
+🔗 Follow My Data Science Journey **[MgTechInsights](https://mgtechinsights.framer.website)**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/margaretmary-ajuruchi )
+📧 Contact me for freelance data projects or portfolio reviews
