@@ -6,7 +6,7 @@ This project uses the Titanic dataset to predict passenger survival using variou
 
 ## 📂 Project Structure
 
-📁 titanic_survival_prediction/
+📁 ML_Model_Development/
 │
 ├── data/
 │ └── cleaned_titanic.csv
